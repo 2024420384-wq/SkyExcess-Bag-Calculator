@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SkyExcess Estimator</string>
+    <string name="title_main">Excess Baggage Fee</string>
+    <string name="title_about">About Developer</string>
+    <string name="label_weight">Baggage Weight (kg)</string>
+    <string name="label_class">Ticket Class</string>
+    <string name="label_rate">Rate per kg (RM)</string>
+    <string name="class_economy">Economy (20 kg Free)</string>
+    <string name="class_business">Business (40 kg Free)</string>
+    <string name="btn_calculate">Calculate Fee</string>
+    <string name="btn_reset">Reset</string>
+    <string name="err_empty">This field cannot be empty</string>
+    <string name="err_invalid">Please enter a valid positive number</string>
+    <string name="notice_info">Select your ticket class and enter checked baggage weight to estimate excess charges inclusive of 8% service tax.</string>
+</resources>

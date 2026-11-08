@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">#0EA5E9</color>
+    <color name="background">#F8FAFC</color>
+    <color name="card_bg">#FFFFFF</color>
+    <color name="error_red">#DC2626</color>
+    <color name="primary">#1E3A8A</color>
+    <color name="primary_dark">#1E293B</color>
+    <color name="text_main">#0F172A</color>
+    <color name="text_sub">#64748B</color>
+    <string name="app_name">SkyExcess Estimator</string>
+    <string name="btn_calculate">Calculate Fee</string>
+    <string name="btn_reset">Reset</string>
+    <string name="class_business">Business (40 kg Free)</string>
+    <string name="class_economy">Economy (20 kg Free)</string>
+    <string name="err_empty">This field cannot be empty</string>
+    <string name="err_invalid">Please enter a valid positive number</string>
+    <string name="label_class">Ticket Class</string>
+    <string name="label_rate">Rate per kg (RM)</string>
+    <string name="label_weight">Baggage Weight (kg)</string>
+    <string name="notice_info">Select your ticket class and enter checked baggage weight to estimate excess charges inclusive of 8% service tax.</string>
+    <string name="title_about">About Developer</string>
+    <string name="title_main">Excess Baggage Fee</string>
+    <style name="Theme.SkyExcessEstimator" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primary_dark</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+        <item name="colorSecondary">@color/accent</item>
+        <item name="colorSecondaryVariant">@color/accent</item>
+        <item name="colorOnSecondary">@android:color/white</item>
+        <item name="android:statusBarColor">@color/primary_dark</item>
+    </style>
+</resources>
